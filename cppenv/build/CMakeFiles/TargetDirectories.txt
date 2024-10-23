@@ -1,0 +1,3 @@
+/home/hasankayan/Documents/CPPPackDev/cppenv/build/CMakeFiles/cppenv.dir
+/home/hasankayan/Documents/CPPPackDev/cppenv/build/CMakeFiles/edit_cache.dir
+/home/hasankayan/Documents/CPPPackDev/cppenv/build/CMakeFiles/rebuild_cache.dir
